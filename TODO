@@ -1,5 +1,5 @@
 * Add the ability to restore a IDM backup.
-* Make the backup produce text format not binary format.
+* Make the backup produce text format and not only binary format.
 * Force the restore process when IDM is running.
 * Backup and compress the download directory and the incomplete download files together. 
-* Buy a certificate ;).
+* Buy a certificate for Windows 7 ;).
