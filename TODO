@@ -1,0 +1,5 @@
+* Add the ability to restore a IDM backup.
+* Make the backup produce text format not binary format.
+* Force the restore process when IDM is running.
+* Backup and compress the download directory and the incomplete download files together. 
+* Buy a certificate ;).
